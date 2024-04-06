@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ostream": "cpp"
+    },
+    "dotnet.defaultSolution": "WebApplication1.sln"
+}
